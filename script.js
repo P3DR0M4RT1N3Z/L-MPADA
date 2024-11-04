@@ -25,5 +25,5 @@ btnAcender.addEventListener("click",ligar)
 btnApagar.addEventListener("click",desligar)
 lampada.addEventListener("mouseover",ligar)
 lampada.addEventListener("mouseleave",desligar)
-lampada.addEventListener("dbclick",quebrar)
+lampada.addEventListener("dblclick",quebrar)
 
